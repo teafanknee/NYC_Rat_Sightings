@@ -1,0 +1,1178 @@
+neighborhood,Borough,season,sighting_count,Borough_encoded,season_encoded,neighborhood_encoded,cluster,risk_level
+Allerton,BRONX,Fall,130,0,0,0,1,Medium
+Allerton,BRONX,Spring,122,0,1,0,1,Medium
+Allerton,BRONX,Summer,143,0,2,0,1,Medium
+Allerton,BRONX,Winter,102,0,3,0,1,Medium
+Alphabet City,MANHATTAN,Fall,217,2,0,1,1,Medium
+Alphabet City,MANHATTAN,Spring,202,2,1,1,1,Medium
+Alphabet City,MANHATTAN,Summer,257,2,2,1,1,Medium
+Alphabet City,MANHATTAN,Winter,127,2,3,1,0,Low
+Annadale,STATEN ISLAND,Fall,7,4,0,2,0,Low
+Annadale,STATEN ISLAND,Spring,8,4,1,2,0,Low
+Annadale,STATEN ISLAND,Summer,21,4,2,2,0,Low
+Annadale,STATEN ISLAND,Winter,1,4,3,2,0,Low
+Arden Heights,STATEN ISLAND,Fall,44,4,0,3,0,Low
+Arden Heights,STATEN ISLAND,Spring,49,4,1,3,0,Low
+Arden Heights,STATEN ISLAND,Summer,119,4,2,3,0,Low
+Arden Heights,STATEN ISLAND,Winter,25,4,3,3,0,Low
+Arrochar,STATEN ISLAND,Fall,41,4,0,4,0,Low
+Arrochar,STATEN ISLAND,Spring,63,4,1,4,0,Low
+Arrochar,STATEN ISLAND,Summer,58,4,2,4,0,Low
+Arrochar,STATEN ISLAND,Winter,9,4,3,4,0,Low
+Arverne,QUEENS,Fall,2,3,0,5,0,Low
+Arverne,QUEENS,Spring,5,3,1,5,0,Low
+Arverne,QUEENS,Summer,9,3,2,5,0,Low
+Arverne,QUEENS,Winter,13,3,3,5,0,Low
+Astoria,BRONX,Spring,7,0,1,6,1,Medium
+Astoria,BRONX,Winter,4,0,3,6,1,Medium
+Astoria,QUEENS,Fall,596,3,0,6,2,High
+Astoria,QUEENS,Spring,710,3,1,6,2,High
+Astoria,QUEENS,Summer,736,3,2,6,2,High
+Astoria,QUEENS,Winter,399,3,3,6,0,Low
+Auburndale,QUEENS,Fall,2,3,0,7,0,Low
+Auburndale,QUEENS,Spring,3,3,1,7,0,Low
+Auburndale,QUEENS,Summer,5,3,2,7,0,Low
+Auburndale,QUEENS,Winter,2,3,3,7,0,Low
+Bath Beach,BROOKLYN,Fall,61,1,0,8,1,Medium
+Bath Beach,BROOKLYN,Spring,62,1,1,8,1,Medium
+Bath Beach,BROOKLYN,Summer,75,1,2,8,1,Medium
+Bath Beach,BROOKLYN,Winter,47,1,3,8,1,Medium
+Battery Park City,MANHATTAN,Fall,15,2,0,9,1,Medium
+Battery Park City,MANHATTAN,Spring,3,2,1,9,1,Medium
+Battery Park City,MANHATTAN,Summer,4,2,2,9,1,Medium
+Battery Park City,MANHATTAN,Winter,4,2,3,9,0,Low
+Bay Ridge,BROOKLYN,Fall,286,1,0,10,1,Medium
+Bay Ridge,BROOKLYN,Spring,433,1,1,10,1,Medium
+Bay Ridge,BROOKLYN,Summer,403,1,2,10,1,Medium
+Bay Ridge,BROOKLYN,Winter,256,1,3,10,1,Medium
+Bay Terrace,QUEENS,Spring,6,3,1,11,0,Low
+Bay Terrace,QUEENS,Summer,3,3,2,11,0,Low
+Bay Terrace,QUEENS,Winter,2,3,3,11,0,Low
+Bay Terrace,STATEN ISLAND,Fall,14,4,0,11,0,Low
+Bay Terrace,STATEN ISLAND,Spring,31,4,1,11,0,Low
+Bay Terrace,STATEN ISLAND,Summer,24,4,2,11,0,Low
+Bay Terrace,STATEN ISLAND,Winter,11,4,3,11,0,Low
+Bayside,QUEENS,Fall,34,3,0,12,0,Low
+Bayside,QUEENS,Spring,33,3,1,12,0,Low
+Bayside,QUEENS,Summer,47,3,2,12,0,Low
+Bayside,QUEENS,Winter,16,3,3,12,0,Low
+Bedford-Stuyvesant,BROOKLYN,Fall,1416,1,0,13,2,High
+Bedford-Stuyvesant,BROOKLYN,Spring,1696,1,1,13,2,High
+Bedford-Stuyvesant,BROOKLYN,Summer,2170,1,2,13,2,High
+Bedford-Stuyvesant,BROOKLYN,Winter,946,1,3,13,2,High
+Beechhurst,QUEENS,Summer,1,3,2,14,0,Low
+Belle Harbor,QUEENS,Fall,1,3,0,15,0,Low
+Belle Harbor,QUEENS,Summer,1,3,2,15,0,Low
+Belle Harbor,QUEENS,Winter,1,3,3,15,0,Low
+Bellerose,QUEENS,Fall,10,3,0,16,0,Low
+Bellerose,QUEENS,Spring,5,3,1,16,0,Low
+Bellerose,QUEENS,Summer,5,3,2,16,0,Low
+Bellerose,QUEENS,Winter,2,3,3,16,0,Low
+Belmont,BRONX,Fall,130,0,0,17,1,Medium
+Belmont,BRONX,Spring,137,0,1,17,1,Medium
+Belmont,BRONX,Summer,163,0,2,17,1,Medium
+Belmont,BRONX,Winter,103,0,3,17,1,Medium
+Bensonhurst,BROOKLYN,Fall,128,1,0,18,1,Medium
+Bensonhurst,BROOKLYN,Spring,196,1,1,18,1,Medium
+Bensonhurst,BROOKLYN,Summer,143,1,2,18,1,Medium
+Bensonhurst,BROOKLYN,Winter,108,1,3,18,1,Medium
+Bergen Beach,BROOKLYN,Fall,14,1,0,19,1,Medium
+Bergen Beach,BROOKLYN,Spring,31,1,1,19,1,Medium
+Bergen Beach,BROOKLYN,Summer,30,1,2,19,1,Medium
+Bergen Beach,BROOKLYN,Winter,15,1,3,19,1,Medium
+Bloomfield,STATEN ISLAND,Summer,1,4,2,20,0,Low
+Bloomingdale,MANHATTAN,Fall,385,2,0,21,1,Medium
+Bloomingdale,MANHATTAN,Spring,461,2,1,21,1,Medium
+Bloomingdale,MANHATTAN,Summer,510,2,2,21,1,Medium
+Bloomingdale,MANHATTAN,Winter,317,2,3,21,1,Medium
+Boerum Hill,BROOKLYN,Fall,112,1,0,22,1,Medium
+Boerum Hill,BROOKLYN,Spring,126,1,1,22,1,Medium
+Boerum Hill,BROOKLYN,Summer,167,1,2,22,1,Medium
+Boerum Hill,BROOKLYN,Winter,88,1,3,22,1,Medium
+Borough Park,BROOKLYN,Fall,159,1,0,23,1,Medium
+Borough Park,BROOKLYN,Spring,199,1,1,23,1,Medium
+Borough Park,BROOKLYN,Summer,199,1,2,23,1,Medium
+Borough Park,BROOKLYN,Winter,120,1,3,23,1,Medium
+Bowery,MANHATTAN,Fall,59,2,0,24,1,Medium
+Bowery,MANHATTAN,Spring,62,2,1,24,1,Medium
+Bowery,MANHATTAN,Summer,78,2,2,24,1,Medium
+Bowery,MANHATTAN,Winter,38,2,3,24,0,Low
+Breezy Point,QUEENS,Fall,3,3,0,25,0,Low
+Breezy Point,QUEENS,Summer,4,3,2,25,0,Low
+Briarwood,QUEENS,Fall,54,3,0,26,0,Low
+Briarwood,QUEENS,Spring,49,3,1,26,0,Low
+Briarwood,QUEENS,Summer,58,3,2,26,0,Low
+Briarwood,QUEENS,Winter,24,3,3,26,0,Low
+Bridge Plaza,BROOKLYN,Fall,4,1,0,27,1,Medium
+Bridge Plaza,BROOKLYN,Spring,12,1,1,27,1,Medium
+Bridge Plaza,BROOKLYN,Summer,18,1,2,27,1,Medium
+Bridge Plaza,BROOKLYN,Winter,13,1,3,27,1,Medium
+Brighton Beach,BROOKLYN,Fall,169,1,0,28,1,Medium
+Brighton Beach,BROOKLYN,Spring,162,1,1,28,1,Medium
+Brighton Beach,BROOKLYN,Summer,153,1,2,28,1,Medium
+Brighton Beach,BROOKLYN,Winter,135,1,3,28,1,Medium
+Broad Channel,QUEENS,Fall,1,3,0,29,0,Low
+Broad Channel,QUEENS,Spring,1,3,1,29,0,Low
+Broad Channel,QUEENS,Summer,2,3,2,29,0,Low
+Broad Channel,QUEENS,Winter,1,3,3,29,0,Low
+Broadway Triangle,BROOKLYN,Fall,75,1,0,30,1,Medium
+Broadway Triangle,BROOKLYN,Spring,31,1,1,30,1,Medium
+Broadway Triangle,BROOKLYN,Summer,29,1,2,30,1,Medium
+Broadway Triangle,BROOKLYN,Winter,19,1,3,30,1,Medium
+Brooklyn,BROOKLYN,Fall,94,1,0,31,1,Medium
+Brooklyn,BROOKLYN,Spring,69,1,1,31,1,Medium
+Brooklyn,BROOKLYN,Summer,105,1,2,31,1,Medium
+Brooklyn,BROOKLYN,Winter,47,1,3,31,1,Medium
+Brooklyn,MANHATTAN,Winter,1,2,3,31,0,Low
+Brooklyn Heights,BROOKLYN,Fall,95,1,0,32,1,Medium
+Brooklyn Heights,BROOKLYN,Spring,123,1,1,32,1,Medium
+Brooklyn Heights,BROOKLYN,Summer,125,1,2,32,1,Medium
+Brooklyn Heights,BROOKLYN,Winter,46,1,3,32,1,Medium
+Brooklyn Navy Yard,BROOKLYN,Fall,3,1,0,33,1,Medium
+Brooklyn Navy Yard,BROOKLYN,Spring,6,1,1,33,1,Medium
+Brooklyn Navy Yard,BROOKLYN,Summer,2,1,2,33,1,Medium
+Brownsville,BROOKLYN,Fall,154,1,0,34,1,Medium
+Brownsville,BROOKLYN,Spring,144,1,1,34,1,Medium
+Brownsville,BROOKLYN,Summer,150,1,2,34,1,Medium
+Brownsville,BROOKLYN,Winter,107,1,3,34,1,Medium
+Bulls Head,STATEN ISLAND,Fall,19,4,0,35,0,Low
+Bulls Head,STATEN ISLAND,Spring,12,4,1,35,0,Low
+Bulls Head,STATEN ISLAND,Summer,22,4,2,35,0,Low
+Bulls Head,STATEN ISLAND,Winter,6,4,3,35,0,Low
+Bushwick,BROOKLYN,Fall,1014,1,0,36,2,High
+Bushwick,BROOKLYN,Spring,1469,1,1,36,2,High
+Bushwick,BROOKLYN,Summer,1473,1,2,36,2,High
+Bushwick,BROOKLYN,Winter,899,1,3,36,2,High
+Bushwick,QUEENS,Fall,5,3,0,36,0,Low
+Bushwick,QUEENS,Spring,2,3,1,36,0,Low
+Bushwick,QUEENS,Summer,4,3,2,36,0,Low
+Bushwick,QUEENS,Winter,1,3,3,36,0,Low
+Cambria Heights,QUEENS,Fall,10,3,0,37,0,Low
+Cambria Heights,QUEENS,Spring,3,3,1,37,0,Low
+Cambria Heights,QUEENS,Summer,10,3,2,37,0,Low
+Cambria Heights,QUEENS,Winter,3,3,3,37,0,Low
+Canal Street,MANHATTAN,Summer,1,2,2,38,0,Low
+Canal Street,MANHATTAN,Winter,1,2,3,38,0,Low
+Canarsie,BROOKLYN,Fall,134,1,0,39,1,Medium
+Canarsie,BROOKLYN,Spring,151,1,1,39,1,Medium
+Canarsie,BROOKLYN,Summer,182,1,2,39,1,Medium
+Canarsie,BROOKLYN,Winter,93,1,3,39,1,Medium
+Carnegie Hill,MANHATTAN,Fall,54,2,0,40,1,Medium
+Carnegie Hill,MANHATTAN,Spring,85,2,1,40,1,Medium
+Carnegie Hill,MANHATTAN,Summer,84,2,2,40,1,Medium
+Carnegie Hill,MANHATTAN,Winter,35,2,3,40,0,Low
+Carroll Gardens,BROOKLYN,Fall,104,1,0,41,1,Medium
+Carroll Gardens,BROOKLYN,Spring,173,1,1,41,1,Medium
+Carroll Gardens,BROOKLYN,Summer,213,1,2,41,1,Medium
+Carroll Gardens,BROOKLYN,Winter,109,1,3,41,1,Medium
+Castleton Corners,STATEN ISLAND,Fall,32,4,0,42,0,Low
+Castleton Corners,STATEN ISLAND,Spring,49,4,1,42,0,Low
+Castleton Corners,STATEN ISLAND,Summer,52,4,2,42,0,Low
+Castleton Corners,STATEN ISLAND,Winter,33,4,3,42,0,Low
+Central Harlem,MANHATTAN,Fall,1303,2,0,43,2,High
+Central Harlem,MANHATTAN,Spring,1696,2,1,43,2,High
+Central Harlem,MANHATTAN,Summer,1844,2,2,43,2,High
+Central Harlem,MANHATTAN,Winter,1173,2,3,43,2,High
+Central Park West Historic District,MANHATTAN,Fall,656,2,0,44,2,High
+Central Park West Historic District,MANHATTAN,Spring,739,2,1,44,2,High
+Central Park West Historic District,MANHATTAN,Summer,878,2,2,44,2,High
+Central Park West Historic District,MANHATTAN,Winter,525,2,3,44,2,High
+Charleston,STATEN ISLAND,Fall,8,4,0,45,0,Low
+Charleston,STATEN ISLAND,Spring,9,4,1,45,0,Low
+Charleston,STATEN ISLAND,Summer,7,4,2,45,0,Low
+Charleston,STATEN ISLAND,Winter,4,4,3,45,0,Low
+Chelsea,MANHATTAN,Fall,188,2,0,46,1,Medium
+Chelsea,MANHATTAN,Spring,245,2,1,46,1,Medium
+Chelsea,MANHATTAN,Summer,277,2,2,46,1,Medium
+Chelsea,MANHATTAN,Winter,148,2,3,46,0,Low
+Chinatown,MANHATTAN,Fall,41,2,0,47,1,Medium
+Chinatown,MANHATTAN,Spring,52,2,1,47,1,Medium
+Chinatown,MANHATTAN,Summer,51,2,2,47,1,Medium
+Chinatown,MANHATTAN,Winter,30,2,3,47,0,Low
+City Island,BRONX,Fall,15,0,0,48,1,Medium
+City Island,BRONX,Spring,5,0,1,48,1,Medium
+City Island,BRONX,Summer,15,0,2,48,1,Medium
+City Island,BRONX,Winter,5,0,3,48,1,Medium
+Civic Center,MANHATTAN,Fall,11,2,0,49,1,Medium
+Civic Center,MANHATTAN,Spring,11,2,1,49,1,Medium
+Civic Center,MANHATTAN,Summer,9,2,2,49,0,Low
+Civic Center,MANHATTAN,Winter,16,2,3,49,0,Low
+Claremont,BRONX,Fall,82,0,0,50,1,Medium
+Claremont,BRONX,Spring,79,0,1,50,1,Medium
+Claremont,BRONX,Summer,58,0,2,50,1,Medium
+Claremont,BRONX,Winter,56,0,3,50,1,Medium
+Clason Point,BRONX,Fall,45,0,0,51,1,Medium
+Clason Point,BRONX,Spring,39,0,1,51,1,Medium
+Clason Point,BRONX,Summer,67,0,2,51,1,Medium
+Clason Point,BRONX,Winter,36,0,3,51,1,Medium
+Clearview,QUEENS,Spring,1,3,1,52,0,Low
+Clearview,QUEENS,Summer,1,3,2,52,0,Low
+Clifton,STATEN ISLAND,Fall,16,4,0,53,0,Low
+Clifton,STATEN ISLAND,Spring,29,4,1,53,0,Low
+Clifton,STATEN ISLAND,Summer,38,4,2,53,0,Low
+Clifton,STATEN ISLAND,Winter,11,4,3,53,0,Low
+Clinton Hill,BROOKLYN,Fall,320,1,0,54,1,Medium
+Clinton Hill,BROOKLYN,Spring,429,1,1,54,1,Medium
+Clinton Hill,BROOKLYN,Summer,486,1,2,54,1,Medium
+Clinton Hill,BROOKLYN,Winter,292,1,3,54,1,Medium
+Cobble Hill,BROOKLYN,Fall,52,1,0,55,1,Medium
+Cobble Hill,BROOKLYN,Spring,99,1,1,55,1,Medium
+Cobble Hill,BROOKLYN,Summer,92,1,2,55,1,Medium
+Cobble Hill,BROOKLYN,Winter,47,1,3,55,1,Medium
+College Point,QUEENS,Fall,8,3,0,56,0,Low
+College Point,QUEENS,Spring,21,3,1,56,0,Low
+College Point,QUEENS,Summer,22,3,2,56,0,Low
+College Point,QUEENS,Winter,16,3,3,56,0,Low
+Columbia Street Waterfront District,BROOKLYN,Fall,33,1,0,57,1,Medium
+Columbia Street Waterfront District,BROOKLYN,Spring,25,1,1,57,1,Medium
+Columbia Street Waterfront District,BROOKLYN,Summer,54,1,2,57,1,Medium
+Columbia Street Waterfront District,BROOKLYN,Winter,18,1,3,57,1,Medium
+Concord,STATEN ISLAND,Fall,18,4,0,58,0,Low
+Concord,STATEN ISLAND,Spring,15,4,1,58,0,Low
+Concord,STATEN ISLAND,Summer,32,4,2,58,0,Low
+Concord,STATEN ISLAND,Winter,28,4,3,58,0,Low
+Concourse,BRONX,Fall,105,0,0,59,1,Medium
+Concourse,BRONX,Spring,71,0,1,59,1,Medium
+Concourse,BRONX,Summer,105,0,2,59,1,Medium
+Concourse,BRONX,Winter,61,0,3,59,1,Medium
+Concourse Village,BRONX,Fall,212,0,0,60,1,Medium
+Concourse Village,BRONX,Spring,212,0,1,60,1,Medium
+Concourse Village,BRONX,Summer,254,0,2,60,1,Medium
+Concourse Village,BRONX,Winter,193,0,3,60,1,Medium
+Coney Island,BROOKLYN,Fall,98,1,0,61,1,Medium
+Coney Island,BROOKLYN,Spring,108,1,1,61,1,Medium
+Coney Island,BROOKLYN,Summer,121,1,2,61,1,Medium
+Coney Island,BROOKLYN,Winter,91,1,3,61,1,Medium
+Corona,QUEENS,Fall,125,3,0,62,0,Low
+Corona,QUEENS,Spring,127,3,1,62,0,Low
+Corona,QUEENS,Summer,154,3,2,62,0,Low
+Corona,QUEENS,Winter,79,3,3,62,0,Low
+Crown Heights,BROOKLYN,Fall,1324,1,0,63,2,High
+Crown Heights,BROOKLYN,Spring,1504,1,1,63,2,High
+Crown Heights,BROOKLYN,Summer,1366,1,2,63,2,High
+Crown Heights,BROOKLYN,Winter,1079,1,3,63,2,High
+Cypress Hills,BROOKLYN,Fall,192,1,0,64,1,Medium
+Cypress Hills,BROOKLYN,Spring,199,1,1,64,1,Medium
+Cypress Hills,BROOKLYN,Summer,245,1,2,64,1,Medium
+Cypress Hills,BROOKLYN,Winter,155,1,3,64,1,Medium
+Cypress Hills,QUEENS,Fall,1,3,0,64,0,Low
+Cypress Hills,QUEENS,Spring,1,3,1,64,0,Low
+Cypress Hills,QUEENS,Summer,1,3,2,64,0,Low
+Diamond District,MANHATTAN,Fall,5,2,0,65,1,Medium
+Diamond District,MANHATTAN,Summer,1,2,2,65,0,Low
+Diamond District,MANHATTAN,Winter,5,2,3,65,0,Low
+Ditmars Steinway,QUEENS,Fall,14,3,0,66,0,Low
+Ditmars Steinway,QUEENS,Spring,19,3,1,66,0,Low
+Ditmars Steinway,QUEENS,Summer,13,3,2,66,0,Low
+Ditmars Steinway,QUEENS,Winter,6,3,3,66,0,Low
+Dongan Hills,STATEN ISLAND,Fall,4,4,0,67,0,Low
+Dongan Hills,STATEN ISLAND,Spring,14,4,1,67,0,Low
+Dongan Hills,STATEN ISLAND,Summer,13,4,2,67,0,Low
+Dongan Hills,STATEN ISLAND,Winter,4,4,3,67,0,Low
+Douglaston,QUEENS,Fall,6,3,0,68,0,Low
+Douglaston,QUEENS,Spring,1,3,1,68,0,Low
+Douglaston,QUEENS,Summer,4,3,2,68,0,Low
+Downtown Brooklyn,BROOKLYN,Fall,81,1,0,69,1,Medium
+Downtown Brooklyn,BROOKLYN,Spring,60,1,1,69,1,Medium
+Downtown Brooklyn,BROOKLYN,Summer,108,1,2,69,1,Medium
+Downtown Brooklyn,BROOKLYN,Winter,33,1,3,69,1,Medium
+Dumbo,BROOKLYN,Fall,8,1,0,70,1,Medium
+Dumbo,BROOKLYN,Spring,15,1,1,70,1,Medium
+Dumbo,BROOKLYN,Summer,19,1,2,70,1,Medium
+Dumbo,BROOKLYN,Winter,6,1,3,70,1,Medium
+Dutch Kills,QUEENS,Fall,3,3,0,71,0,Low
+Dutch Kills,QUEENS,Spring,5,3,1,71,0,Low
+Dutch Kills,QUEENS,Summer,8,3,2,71,0,Low
+Dutch Kills,QUEENS,Winter,1,3,3,71,0,Low
+Dyker Heights,BROOKLYN,Fall,141,1,0,72,1,Medium
+Dyker Heights,BROOKLYN,Spring,147,1,1,72,1,Medium
+Dyker Heights,BROOKLYN,Summer,168,1,2,72,1,Medium
+Dyker Heights,BROOKLYN,Winter,94,1,3,72,1,Medium
+East Bronx,BRONX,Fall,965,0,0,73,2,High
+East Bronx,BRONX,Spring,1038,0,1,73,2,High
+East Bronx,BRONX,Summer,1231,0,2,73,2,High
+East Bronx,BRONX,Winter,625,0,3,73,2,High
+East Elmhurst,BRONX,Summer,1,0,2,74,1,Medium
+East Elmhurst,QUEENS,Fall,51,3,0,74,0,Low
+East Elmhurst,QUEENS,Spring,50,3,1,74,0,Low
+East Elmhurst,QUEENS,Summer,65,3,2,74,0,Low
+East Elmhurst,QUEENS,Winter,25,3,3,74,0,Low
+East Flatbush,BROOKLYN,Fall,162,1,0,75,1,Medium
+East Flatbush,BROOKLYN,Spring,183,1,1,75,1,Medium
+East Flatbush,BROOKLYN,Summer,212,1,2,75,1,Medium
+East Flatbush,BROOKLYN,Winter,125,1,3,75,1,Medium
+East Flushing,QUEENS,Fall,2,3,0,76,0,Low
+East Flushing,QUEENS,Spring,2,3,1,76,0,Low
+East Flushing,QUEENS,Summer,2,3,2,76,0,Low
+East Flushing,QUEENS,Winter,1,3,3,76,0,Low
+East Harlem,MANHATTAN,Fall,710,2,0,77,2,High
+East Harlem,MANHATTAN,Spring,715,2,1,77,2,High
+East Harlem,MANHATTAN,Summer,713,2,2,77,2,High
+East Harlem,MANHATTAN,Winter,481,2,3,77,1,Medium
+East New York,BROOKLYN,Fall,324,1,0,78,1,Medium
+East New York,BROOKLYN,Spring,394,1,1,78,1,Medium
+East New York,BROOKLYN,Summer,447,1,2,78,1,Medium
+East New York,BROOKLYN,Winter,277,1,3,78,1,Medium
+East New York,QUEENS,Summer,1,3,2,78,0,Low
+East Village,MANHATTAN,Fall,28,2,0,79,1,Medium
+East Village,MANHATTAN,Spring,37,2,1,79,1,Medium
+East Village,MANHATTAN,Summer,26,2,2,79,0,Low
+East Village,MANHATTAN,Winter,18,2,3,79,0,Low
+East Williamsburg,BROOKLYN,Fall,129,1,0,80,1,Medium
+East Williamsburg,BROOKLYN,Spring,115,1,1,80,1,Medium
+East Williamsburg,BROOKLYN,Summer,190,1,2,80,1,Medium
+East Williamsburg,BROOKLYN,Winter,71,1,3,80,1,Medium
+Edenwald,BRONX,Fall,26,0,0,81,1,Medium
+Edenwald,BRONX,Spring,46,0,1,81,1,Medium
+Edenwald,BRONX,Summer,54,0,2,81,1,Medium
+Edenwald,BRONX,Winter,32,0,3,81,1,Medium
+Edgemere,QUEENS,Fall,1,3,0,82,0,Low
+Edgemere,QUEENS,Winter,3,3,3,82,0,Low
+Elmhurst,QUEENS,Fall,159,3,0,83,0,Low
+Elmhurst,QUEENS,Spring,166,3,1,83,0,Low
+Elmhurst,QUEENS,Summer,257,3,2,83,0,Low
+Elmhurst,QUEENS,Winter,89,3,3,83,0,Low
+Eltingville,STATEN ISLAND,Fall,35,4,0,84,0,Low
+Eltingville,STATEN ISLAND,Spring,35,4,1,84,0,Low
+Eltingville,STATEN ISLAND,Summer,73,4,2,84,0,Low
+Eltingville,STATEN ISLAND,Winter,15,4,3,84,0,Low
+Far Rockaway,QUEENS,Fall,120,3,0,85,0,Low
+Far Rockaway,QUEENS,Spring,122,3,1,85,0,Low
+Far Rockaway,QUEENS,Summer,189,3,2,85,0,Low
+Far Rockaway,QUEENS,Winter,70,3,3,85,0,Low
+Fieldston,BRONX,Fall,33,0,0,86,1,Medium
+Fieldston,BRONX,Spring,43,0,1,86,1,Medium
+Fieldston,BRONX,Summer,55,0,2,86,1,Medium
+Fieldston,BRONX,Winter,40,0,3,86,1,Medium
+Financial District,MANHATTAN,Fall,83,2,0,87,1,Medium
+Financial District,MANHATTAN,Spring,121,2,1,87,1,Medium
+Financial District,MANHATTAN,Summer,90,2,2,87,0,Low
+Financial District,MANHATTAN,Winter,89,2,3,87,0,Low
+Flatbush,BROOKLYN,Fall,750,1,0,88,2,High
+Flatbush,BROOKLYN,Spring,900,1,1,88,2,High
+Flatbush,BROOKLYN,Summer,903,1,2,88,2,High
+Flatbush,BROOKLYN,Winter,657,1,3,88,2,High
+Flatiron District,MANHATTAN,Fall,16,2,0,89,1,Medium
+Flatiron District,MANHATTAN,Spring,10,2,1,89,1,Medium
+Flatiron District,MANHATTAN,Summer,12,2,2,89,0,Low
+Flatiron District,MANHATTAN,Winter,9,2,3,89,0,Low
+Flatlands,BROOKLYN,Fall,80,1,0,90,1,Medium
+Flatlands,BROOKLYN,Spring,124,1,1,90,1,Medium
+Flatlands,BROOKLYN,Summer,142,1,2,90,1,Medium
+Flatlands,BROOKLYN,Winter,61,1,3,90,1,Medium
+Floral Park,QUEENS,Fall,19,3,0,91,0,Low
+Floral Park,QUEENS,Spring,21,3,1,91,0,Low
+Floral Park,QUEENS,Summer,30,3,2,91,0,Low
+Floral Park,QUEENS,Winter,4,3,3,91,0,Low
+Flushing,BRONX,Spring,1,0,1,92,1,Medium
+Flushing,BROOKLYN,Fall,1,1,0,92,1,Medium
+Flushing,BROOKLYN,Spring,1,1,1,92,1,Medium
+Flushing,BROOKLYN,Summer,3,1,2,92,1,Medium
+Flushing,BROOKLYN,Winter,1,1,3,92,1,Medium
+Flushing,QUEENS,Fall,1517,3,0,92,2,High
+Flushing,QUEENS,Spring,1990,3,1,92,2,High
+Flushing,QUEENS,Summer,2282,3,2,92,2,High
+Flushing,QUEENS,Winter,1103,3,3,92,2,High
+Fordham Heights,BRONX,Fall,190,0,0,93,1,Medium
+Fordham Heights,BRONX,Spring,165,0,1,93,1,Medium
+Fordham Heights,BRONX,Summer,225,0,2,93,1,Medium
+Fordham Heights,BRONX,Winter,203,0,3,93,1,Medium
+Fordham Manor,BRONX,Fall,197,0,0,94,1,Medium
+Fordham Manor,BRONX,Spring,281,0,1,94,1,Medium
+Fordham Manor,BRONX,Summer,242,0,2,94,1,Medium
+Fordham Manor,BRONX,Winter,172,0,3,94,1,Medium
+Forest Hills,QUEENS,Fall,105,3,0,95,0,Low
+Forest Hills,QUEENS,Spring,125,3,1,95,0,Low
+Forest Hills,QUEENS,Summer,151,3,2,95,0,Low
+Forest Hills,QUEENS,Winter,79,3,3,95,0,Low
+Fort George,MANHATTAN,Fall,197,2,0,96,1,Medium
+Fort George,MANHATTAN,Spring,234,2,1,96,1,Medium
+Fort George,MANHATTAN,Summer,257,2,2,96,1,Medium
+Fort George,MANHATTAN,Winter,173,2,3,96,0,Low
+Fort Greene,BROOKLYN,Fall,207,1,0,97,1,Medium
+Fort Greene,BROOKLYN,Spring,250,1,1,97,1,Medium
+Fort Greene,BROOKLYN,Summer,270,1,2,97,1,Medium
+Fort Greene,BROOKLYN,Winter,156,1,3,97,1,Medium
+Fort Hamilton,BROOKLYN,Fall,91,1,0,98,1,Medium
+Fort Hamilton,BROOKLYN,Spring,79,1,1,98,1,Medium
+Fort Hamilton,BROOKLYN,Summer,93,1,2,98,1,Medium
+Fort Hamilton,BROOKLYN,Winter,52,1,3,98,1,Medium
+Fort Wadsworth,STATEN ISLAND,Fall,2,4,0,99,0,Low
+Fort Wadsworth,STATEN ISLAND,Spring,3,4,1,99,0,Low
+Fort Wadsworth,STATEN ISLAND,Summer,6,4,2,99,0,Low
+Fort Wadsworth,STATEN ISLAND,Winter,2,4,3,99,0,Low
+Foxhurst,BRONX,Fall,177,0,0,100,1,Medium
+Foxhurst,BRONX,Spring,175,0,1,100,1,Medium
+Foxhurst,BRONX,Summer,228,0,2,100,1,Medium
+Foxhurst,BRONX,Winter,147,0,3,100,1,Medium
+Fresh Meadows,QUEENS,Fall,15,3,0,101,0,Low
+Fresh Meadows,QUEENS,Spring,31,3,1,101,0,Low
+Fresh Meadows,QUEENS,Summer,20,3,2,101,0,Low
+Fresh Meadows,QUEENS,Winter,12,3,3,101,0,Low
+Garment District,MANHATTAN,Fall,30,2,0,102,1,Medium
+Garment District,MANHATTAN,Spring,31,2,1,102,1,Medium
+Garment District,MANHATTAN,Summer,16,2,2,102,0,Low
+Garment District,MANHATTAN,Winter,20,2,3,102,0,Low
+Gerritsen Beach,BROOKLYN,Fall,11,1,0,103,1,Medium
+Gerritsen Beach,BROOKLYN,Spring,5,1,1,103,1,Medium
+Gerritsen Beach,BROOKLYN,Summer,19,1,2,103,1,Medium
+Gerritsen Beach,BROOKLYN,Winter,8,1,3,103,1,Medium
+Glen Oaks,QUEENS,Fall,5,3,0,104,0,Low
+Glen Oaks,QUEENS,Spring,5,3,1,104,0,Low
+Glen Oaks,QUEENS,Summer,9,3,2,104,0,Low
+Glen Oaks,QUEENS,Winter,4,3,3,104,0,Low
+Glendale,QUEENS,Fall,41,3,0,105,0,Low
+Glendale,QUEENS,Spring,72,3,1,105,0,Low
+Glendale,QUEENS,Summer,91,3,2,105,0,Low
+Glendale,QUEENS,Winter,25,3,3,105,0,Low
+Governors Island,MANHATTAN,Spring,1,2,1,106,1,Medium
+Gowanus,BROOKLYN,Fall,77,1,0,107,1,Medium
+Gowanus,BROOKLYN,Spring,104,1,1,107,1,Medium
+Gowanus,BROOKLYN,Summer,138,1,2,107,1,Medium
+Gowanus,BROOKLYN,Winter,55,1,3,107,1,Medium
+Gramercy Park,MANHATTAN,Fall,78,2,0,108,1,Medium
+Gramercy Park,MANHATTAN,Spring,109,2,1,108,1,Medium
+Gramercy Park,MANHATTAN,Summer,93,2,2,108,0,Low
+Gramercy Park,MANHATTAN,Winter,105,2,3,108,0,Low
+Gravesend,BROOKLYN,Fall,172,1,0,109,1,Medium
+Gravesend,BROOKLYN,Spring,183,1,1,109,1,Medium
+Gravesend,BROOKLYN,Summer,195,1,2,109,1,Medium
+Gravesend,BROOKLYN,Winter,112,1,3,109,1,Medium
+Great Kills,STATEN ISLAND,Fall,37,4,0,110,0,Low
+Great Kills,STATEN ISLAND,Spring,84,4,1,110,0,Low
+Great Kills,STATEN ISLAND,Summer,87,4,2,110,0,Low
+Great Kills,STATEN ISLAND,Winter,32,4,3,110,0,Low
+Greenpoint,BROOKLYN,Fall,341,1,0,111,1,Medium
+Greenpoint,BROOKLYN,Spring,472,1,1,111,1,Medium
+Greenpoint,BROOKLYN,Summer,456,1,2,111,1,Medium
+Greenpoint,BROOKLYN,Winter,240,1,3,111,1,Medium
+Greenwich Village,MANHATTAN,Fall,60,2,0,112,1,Medium
+Greenwich Village,MANHATTAN,Spring,35,2,1,112,1,Medium
+Greenwich Village,MANHATTAN,Summer,55,2,2,112,0,Low
+Greenwich Village,MANHATTAN,Winter,32,2,3,112,0,Low
+Greenwood Heights,BROOKLYN,Fall,1,1,0,113,1,Medium
+Greenwood Heights,BROOKLYN,Spring,2,1,1,113,1,Medium
+Hamilton Heights,MANHATTAN,Fall,258,2,0,114,1,Medium
+Hamilton Heights,MANHATTAN,Spring,354,2,1,114,1,Medium
+Hamilton Heights,MANHATTAN,Summer,386,2,2,114,1,Medium
+Hamilton Heights,MANHATTAN,Winter,320,2,3,114,0,Low
+Hammels,QUEENS,Fall,2,3,0,115,0,Low
+Hammels,QUEENS,Spring,1,3,1,115,0,Low
+Hammels,QUEENS,Winter,3,3,3,115,0,Low
+Harlem,MANHATTAN,Fall,27,2,0,116,1,Medium
+Harlem,MANHATTAN,Spring,16,2,1,116,1,Medium
+Harlem,MANHATTAN,Summer,28,2,2,116,0,Low
+Harlem,MANHATTAN,Winter,7,2,3,116,0,Low
+Hell's Kitchen,MANHATTAN,Fall,282,2,0,117,1,Medium
+Hell's Kitchen,MANHATTAN,Spring,288,2,1,117,1,Medium
+Hell's Kitchen,MANHATTAN,Summer,332,2,2,117,1,Medium
+Hell's Kitchen,MANHATTAN,Winter,231,2,3,117,0,Low
+Highbridge,BRONX,Fall,256,0,0,118,1,Medium
+Highbridge,BRONX,Spring,451,0,1,118,1,Medium
+Highbridge,BRONX,Summer,395,0,2,118,1,Medium
+Highbridge,BRONX,Winter,321,0,3,118,1,Medium
+Hillcrest,QUEENS,Fall,3,3,0,119,0,Low
+Hillcrest,QUEENS,Spring,6,3,1,119,0,Low
+Hillcrest,QUEENS,Summer,1,3,2,119,0,Low
+Hollis,QUEENS,Fall,7,3,0,120,0,Low
+Hollis,QUEENS,Spring,12,3,1,120,0,Low
+Hollis,QUEENS,Summer,15,3,2,120,0,Low
+Hollis,QUEENS,Winter,9,3,3,120,0,Low
+Hollis Hills,QUEENS,Spring,2,3,1,121,0,Low
+Hollis Hills,QUEENS,Summer,1,3,2,121,0,Low
+Homecrest,BROOKLYN,Fall,41,1,0,122,1,Medium
+Homecrest,BROOKLYN,Spring,62,1,1,122,1,Medium
+Homecrest,BROOKLYN,Summer,60,1,2,122,1,Medium
+Homecrest,BROOKLYN,Winter,20,1,3,122,1,Medium
+Howard Beach,BROOKLYN,Summer,1,1,2,123,1,Medium
+Howard Beach,QUEENS,Fall,21,3,0,123,0,Low
+Howard Beach,QUEENS,Spring,23,3,1,123,0,Low
+Howard Beach,QUEENS,Summer,26,3,2,123,0,Low
+Howard Beach,QUEENS,Winter,7,3,3,123,0,Low
+Hudson Heights,MANHATTAN,Fall,168,2,0,124,1,Medium
+Hudson Heights,MANHATTAN,Spring,176,2,1,124,1,Medium
+Hudson Heights,MANHATTAN,Summer,174,2,2,124,0,Low
+Hudson Heights,MANHATTAN,Winter,154,2,3,124,0,Low
+Hudson Hill,BRONX,Fall,3,0,0,125,1,Medium
+Hudson Hill,BRONX,Spring,3,0,1,125,1,Medium
+Hudson Hill,BRONX,Summer,3,0,2,125,1,Medium
+Hudson Square,MANHATTAN,Fall,21,2,0,126,1,Medium
+Hudson Square,MANHATTAN,Spring,16,2,1,126,1,Medium
+Hudson Square,MANHATTAN,Summer,14,2,2,126,0,Low
+Hudson Square,MANHATTAN,Winter,8,2,3,126,0,Low
+Hudson Yards,MANHATTAN,Summer,1,2,2,127,0,Low
+Hudson Yards,MANHATTAN,Winter,2,2,3,127,0,Low
+Hunts Point,BRONX,Fall,110,0,0,128,1,Medium
+Hunts Point,BRONX,Spring,104,0,1,128,1,Medium
+Hunts Point,BRONX,Summer,138,0,2,128,1,Medium
+Hunts Point,BRONX,Winter,89,0,3,128,1,Medium
+Inwood,MANHATTAN,Fall,285,2,0,129,1,Medium
+Inwood,MANHATTAN,Spring,293,2,1,129,1,Medium
+Inwood,MANHATTAN,Summer,271,2,2,129,1,Medium
+Inwood,MANHATTAN,Winter,192,2,3,129,0,Low
+Jackson Heights,QUEENS,Fall,81,3,0,130,0,Low
+Jackson Heights,QUEENS,Spring,93,3,1,130,0,Low
+Jackson Heights,QUEENS,Summer,117,3,2,130,0,Low
+Jackson Heights,QUEENS,Winter,63,3,3,130,0,Low
+Jamaica,BROOKLYN,Fall,18,1,0,131,1,Medium
+Jamaica,BROOKLYN,Spring,3,1,1,131,1,Medium
+Jamaica,BROOKLYN,Summer,2,1,2,131,1,Medium
+Jamaica,BROOKLYN,Winter,3,1,3,131,1,Medium
+Jamaica,QUEENS,Fall,655,3,0,131,2,High
+Jamaica,QUEENS,Spring,822,3,1,131,2,High
+Jamaica,QUEENS,Summer,1146,3,2,131,2,High
+Jamaica,QUEENS,Winter,502,3,3,131,0,Low
+Jamaica Estates,QUEENS,Fall,3,3,0,132,0,Low
+Jamaica Estates,QUEENS,Winter,1,3,3,132,0,Low
+Jamaica Hills,QUEENS,Spring,2,3,1,133,0,Low
+Jamaica Hills,QUEENS,Summer,2,3,2,133,0,Low
+Jewel Streets,BROOKLYN,Spring,1,1,1,134,1,Medium
+Kensington,BROOKLYN,Fall,295,1,0,135,1,Medium
+Kensington,BROOKLYN,Spring,343,1,1,135,1,Medium
+Kensington,BROOKLYN,Summer,375,1,2,135,1,Medium
+Kensington,BROOKLYN,Winter,184,1,3,135,1,Medium
+Kew Gardens,QUEENS,Fall,13,3,0,136,0,Low
+Kew Gardens,QUEENS,Spring,20,3,1,136,0,Low
+Kew Gardens,QUEENS,Summer,12,3,2,136,0,Low
+Kew Gardens,QUEENS,Winter,3,3,3,136,0,Low
+Kew Gardens Hills,QUEENS,Fall,38,3,0,137,0,Low
+Kew Gardens Hills,QUEENS,Spring,26,3,1,137,0,Low
+Kew Gardens Hills,QUEENS,Summer,31,3,2,137,0,Low
+Kew Gardens Hills,QUEENS,Winter,11,3,3,137,0,Low
+Kingsbridge,BRONX,Fall,61,0,0,138,1,Medium
+Kingsbridge,BRONX,Spring,60,0,1,138,1,Medium
+Kingsbridge,BRONX,Summer,86,0,2,138,1,Medium
+Kingsbridge,BRONX,Winter,55,0,3,138,1,Medium
+Kips Bay,MANHATTAN,Fall,80,2,0,139,1,Medium
+Kips Bay,MANHATTAN,Spring,82,2,1,139,1,Medium
+Kips Bay,MANHATTAN,Summer,135,2,2,139,0,Low
+Kips Bay,MANHATTAN,Winter,54,2,3,139,0,Low
+Koreatown,MANHATTAN,Fall,4,2,0,140,1,Medium
+Koreatown,MANHATTAN,Spring,5,2,1,140,1,Medium
+Koreatown,MANHATTAN,Summer,15,2,2,140,0,Low
+Laconia,BRONX,Fall,31,0,0,141,1,Medium
+Laconia,BRONX,Spring,46,0,1,141,1,Medium
+Laconia,BRONX,Summer,53,0,2,141,1,Medium
+Laconia,BRONX,Winter,28,0,3,141,1,Medium
+Laurelton,QUEENS,Fall,20,3,0,142,0,Low
+Laurelton,QUEENS,Spring,9,3,1,142,0,Low
+Laurelton,QUEENS,Summer,11,3,2,142,0,Low
+Laurelton,QUEENS,Winter,2,3,3,142,0,Low
+Lefferts Manor Historic District,BROOKLYN,Fall,13,1,0,143,1,Medium
+Lefferts Manor Historic District,BROOKLYN,Spring,31,1,1,143,1,Medium
+Lefferts Manor Historic District,BROOKLYN,Summer,16,1,2,143,1,Medium
+Lefferts Manor Historic District,BROOKLYN,Winter,12,1,3,143,1,Medium
+Lenox Hill,MANHATTAN,Fall,260,2,0,144,1,Medium
+Lenox Hill,MANHATTAN,Spring,294,2,1,144,1,Medium
+Lenox Hill,MANHATTAN,Summer,354,2,2,144,1,Medium
+Lenox Hill,MANHATTAN,Winter,194,2,3,144,0,Low
+Lighthouse Hill,STATEN ISLAND,Fall,2,4,0,145,0,Low
+Lighthouse Hill,STATEN ISLAND,Spring,2,4,1,145,0,Low
+Lighthouse Hill,STATEN ISLAND,Summer,3,4,2,145,0,Low
+Lighthouse Hill,STATEN ISLAND,Winter,1,4,3,145,0,Low
+Lincoln Square,MANHATTAN,Fall,124,2,0,146,1,Medium
+Lincoln Square,MANHATTAN,Spring,145,2,1,146,1,Medium
+Lincoln Square,MANHATTAN,Summer,171,2,2,146,0,Low
+Lincoln Square,MANHATTAN,Winter,141,2,3,146,0,Low
+Little Brazil,MANHATTAN,Fall,3,2,0,147,1,Medium
+Little Brazil,MANHATTAN,Spring,3,2,1,147,1,Medium
+Little Brazil,MANHATTAN,Summer,1,2,2,147,0,Low
+Little Brazil,MANHATTAN,Winter,3,2,3,147,0,Low
+Little Caribbean,BROOKLYN,Fall,266,1,0,148,1,Medium
+Little Caribbean,BROOKLYN,Spring,201,1,1,148,1,Medium
+Little Caribbean,BROOKLYN,Summer,197,1,2,148,1,Medium
+Little Caribbean,BROOKLYN,Winter,173,1,3,148,1,Medium
+Little Dominican Republic,MANHATTAN,Fall,1,2,0,149,1,Medium
+Little Haiti,BROOKLYN,Fall,225,1,0,150,1,Medium
+Little Haiti,BROOKLYN,Spring,280,1,1,150,1,Medium
+Little Haiti,BROOKLYN,Summer,307,1,2,150,1,Medium
+Little Haiti,BROOKLYN,Winter,245,1,3,150,1,Medium
+Little Italy,BRONX,Fall,18,0,0,151,1,Medium
+Little Italy,BRONX,Spring,22,0,1,151,1,Medium
+Little Italy,BRONX,Summer,19,0,2,151,1,Medium
+Little Italy,BRONX,Winter,18,0,3,151,1,Medium
+Little Italy,MANHATTAN,Fall,37,2,0,151,1,Medium
+Little Italy,MANHATTAN,Spring,24,2,1,151,1,Medium
+Little Italy,MANHATTAN,Summer,31,2,2,151,0,Low
+Little Italy,MANHATTAN,Winter,19,2,3,151,0,Low
+Little Neck,QUEENS,Fall,3,3,0,152,0,Low
+Little Neck,QUEENS,Spring,8,3,1,152,0,Low
+Little Neck,QUEENS,Summer,3,3,2,152,0,Low
+Little Neck,QUEENS,Winter,2,3,3,152,0,Low
+Long Island City,BRONX,Spring,4,0,1,153,1,Medium
+Long Island City,BROOKLYN,Fall,1,1,0,153,1,Medium
+Long Island City,QUEENS,Fall,465,3,0,153,0,Low
+Long Island City,QUEENS,Spring,633,3,1,153,2,High
+Long Island City,QUEENS,Summer,704,3,2,153,2,High
+Long Island City,QUEENS,Winter,400,3,3,153,0,Low
+Lower East Side,MANHATTAN,Fall,115,2,0,154,1,Medium
+Lower East Side,MANHATTAN,Spring,127,2,1,154,1,Medium
+Lower East Side,MANHATTAN,Summer,162,2,2,154,0,Low
+Lower East Side,MANHATTAN,Winter,107,2,3,154,0,Low
+Lower Manhattan,MANHATTAN,Fall,12,2,0,155,1,Medium
+Lower Manhattan,MANHATTAN,Spring,16,2,1,155,1,Medium
+Lower Manhattan,MANHATTAN,Summer,14,2,2,155,0,Low
+Lower Manhattan,MANHATTAN,Winter,18,2,3,155,0,Low
+Madison,BROOKLYN,Fall,17,1,0,156,1,Medium
+Madison,BROOKLYN,Spring,15,1,1,156,1,Medium
+Madison,BROOKLYN,Summer,16,1,2,156,1,Medium
+Madison,BROOKLYN,Winter,7,1,3,156,1,Medium
+Malba,QUEENS,Summer,1,3,2,157,0,Low
+Manhattan,MANHATTAN,Fall,33,2,0,158,1,Medium
+Manhattan,MANHATTAN,Spring,31,2,1,158,1,Medium
+Manhattan,MANHATTAN,Summer,48,2,2,158,0,Low
+Manhattan,MANHATTAN,Winter,27,2,3,158,0,Low
+Manhattan Beach,BROOKLYN,Fall,20,1,0,159,1,Medium
+Manhattan Beach,BROOKLYN,Spring,32,1,1,159,1,Medium
+Manhattan Beach,BROOKLYN,Summer,31,1,2,159,1,Medium
+Manhattan Beach,BROOKLYN,Winter,12,1,3,159,1,Medium
+Manhattan Valley,MANHATTAN,Fall,245,2,0,160,1,Medium
+Manhattan Valley,MANHATTAN,Spring,285,2,1,160,1,Medium
+Manhattan Valley,MANHATTAN,Summer,332,2,2,160,1,Medium
+Manhattan Valley,MANHATTAN,Winter,229,2,3,160,0,Low
+Manor Heights,STATEN ISLAND,Fall,16,4,0,161,0,Low
+Manor Heights,STATEN ISLAND,Spring,14,4,1,161,0,Low
+Manor Heights,STATEN ISLAND,Summer,31,4,2,161,0,Low
+Manor Heights,STATEN ISLAND,Winter,7,4,3,161,0,Low
+Mapleton,BROOKLYN,Fall,37,1,0,162,1,Medium
+Mapleton,BROOKLYN,Spring,84,1,1,162,1,Medium
+Mapleton,BROOKLYN,Summer,55,1,2,162,1,Medium
+Mapleton,BROOKLYN,Winter,56,1,3,162,1,Medium
+Marble Hill,BRONX,Fall,29,0,0,163,1,Medium
+Marble Hill,BRONX,Spring,19,0,1,163,1,Medium
+Marble Hill,BRONX,Summer,19,0,2,163,1,Medium
+Marble Hill,BRONX,Winter,12,0,3,163,1,Medium
+Marble Hill,MANHATTAN,Fall,3,2,0,163,1,Medium
+Marble Hill,MANHATTAN,Spring,3,2,1,163,1,Medium
+Marble Hill,MANHATTAN,Summer,1,2,2,163,0,Low
+Marble Hill,MANHATTAN,Winter,2,2,3,163,0,Low
+Marcus Garvey,MANHATTAN,Fall,6,2,0,164,1,Medium
+Marcus Garvey,MANHATTAN,Spring,2,2,1,164,1,Medium
+Marcus Garvey,MANHATTAN,Summer,6,2,2,164,0,Low
+Marcus Garvey,MANHATTAN,Winter,3,2,3,164,0,Low
+Marine Park,BROOKLYN,Fall,39,1,0,165,1,Medium
+Marine Park,BROOKLYN,Spring,43,1,1,165,1,Medium
+Marine Park,BROOKLYN,Summer,65,1,2,165,1,Medium
+Marine Park,BROOKLYN,Winter,17,1,3,165,1,Medium
+Mariners Harbor,STATEN ISLAND,Fall,41,4,0,166,0,Low
+Mariners Harbor,STATEN ISLAND,Spring,68,4,1,166,0,Low
+Mariners Harbor,STATEN ISLAND,Summer,61,4,2,166,0,Low
+Mariners Harbor,STATEN ISLAND,Winter,32,4,3,166,0,Low
+Maspeth,QUEENS,Fall,74,3,0,167,0,Low
+Maspeth,QUEENS,Spring,57,3,1,167,0,Low
+Maspeth,QUEENS,Summer,76,3,2,167,0,Low
+Maspeth,QUEENS,Winter,49,3,3,167,0,Low
+Meatpacking District,MANHATTAN,Fall,1,2,0,168,1,Medium
+Meatpacking District,MANHATTAN,Summer,1,2,2,168,0,Low
+Melrose,BRONX,Fall,90,0,0,169,1,Medium
+Melrose,BRONX,Spring,131,0,1,169,1,Medium
+Melrose,BRONX,Summer,138,0,2,169,1,Medium
+Melrose,BRONX,Winter,79,0,3,169,1,Medium
+Mid Island,STATEN ISLAND,Fall,140,4,0,170,0,Low
+Mid Island,STATEN ISLAND,Spring,144,4,1,170,0,Low
+Mid Island,STATEN ISLAND,Summer,186,4,2,170,0,Low
+Mid Island,STATEN ISLAND,Winter,100,4,3,170,0,Low
+Middle Village,QUEENS,Fall,39,3,0,171,0,Low
+Middle Village,QUEENS,Spring,53,3,1,171,0,Low
+Middle Village,QUEENS,Summer,72,3,2,171,0,Low
+Middle Village,QUEENS,Winter,27,3,3,171,0,Low
+Midland Beach,STATEN ISLAND,Fall,19,4,0,172,0,Low
+Midland Beach,STATEN ISLAND,Spring,36,4,1,172,0,Low
+Midland Beach,STATEN ISLAND,Summer,51,4,2,172,0,Low
+Midland Beach,STATEN ISLAND,Winter,15,4,3,172,0,Low
+Midtown East,MANHATTAN,Fall,66,2,0,173,1,Medium
+Midtown East,MANHATTAN,Spring,89,2,1,173,1,Medium
+Midtown East,MANHATTAN,Summer,86,2,2,173,0,Low
+Midtown East,MANHATTAN,Winter,53,2,3,173,0,Low
+Midtown Manhattan,MANHATTAN,Fall,24,2,0,174,1,Medium
+Midtown Manhattan,MANHATTAN,Spring,38,2,1,174,1,Medium
+Midtown Manhattan,MANHATTAN,Summer,54,2,2,174,0,Low
+Midtown Manhattan,MANHATTAN,Winter,19,2,3,174,0,Low
+Midtown South,MANHATTAN,Fall,51,2,0,175,1,Medium
+Midtown South,MANHATTAN,Spring,58,2,1,175,1,Medium
+Midtown South,MANHATTAN,Summer,72,2,2,175,0,Low
+Midtown South,MANHATTAN,Winter,48,2,3,175,0,Low
+Midtown West,MANHATTAN,Fall,23,2,0,176,1,Medium
+Midtown West,MANHATTAN,Spring,43,2,1,176,1,Medium
+Midtown West,MANHATTAN,Summer,30,2,2,176,0,Low
+Midtown West,MANHATTAN,Winter,19,2,3,176,0,Low
+Midwood,BROOKLYN,Fall,164,1,0,177,1,Medium
+Midwood,BROOKLYN,Spring,188,1,1,177,1,Medium
+Midwood,BROOKLYN,Summer,168,1,2,177,1,Medium
+Midwood,BROOKLYN,Winter,74,1,3,177,1,Medium
+Mill Basin,BROOKLYN,Fall,15,1,0,178,1,Medium
+Mill Basin,BROOKLYN,Spring,44,1,1,178,1,Medium
+Mill Basin,BROOKLYN,Summer,36,1,2,178,1,Medium
+Mill Basin,BROOKLYN,Winter,18,1,3,178,1,Medium
+Morningside Heights,MANHATTAN,Fall,132,2,0,179,1,Medium
+Morningside Heights,MANHATTAN,Spring,140,2,1,179,1,Medium
+Morningside Heights,MANHATTAN,Summer,168,2,2,179,0,Low
+Morningside Heights,MANHATTAN,Winter,79,2,3,179,0,Low
+Morris Heights,BRONX,Fall,110,0,0,180,1,Medium
+Morris Heights,BRONX,Spring,125,0,1,180,1,Medium
+Morris Heights,BRONX,Summer,148,0,2,180,1,Medium
+Morris Heights,BRONX,Winter,127,0,3,180,1,Medium
+Morris Park,BRONX,Fall,39,0,0,181,1,Medium
+Morris Park,BRONX,Spring,77,0,1,181,1,Medium
+Morris Park,BRONX,Summer,108,0,2,181,1,Medium
+Morris Park,BRONX,Winter,29,0,3,181,1,Medium
+Morrisania,BRONX,Fall,255,0,0,182,1,Medium
+Morrisania,BRONX,Spring,256,0,1,182,1,Medium
+Morrisania,BRONX,Summer,297,0,2,182,1,Medium
+Morrisania,BRONX,Winter,191,0,3,182,1,Medium
+Mott Haven,BRONX,Fall,241,0,0,183,1,Medium
+Mott Haven,BRONX,Spring,315,0,1,183,1,Medium
+Mott Haven,BRONX,Summer,259,0,2,183,1,Medium
+Mott Haven,BRONX,Winter,197,0,3,183,1,Medium
+Mount Eden,BRONX,Fall,71,0,0,184,1,Medium
+Mount Eden,BRONX,Spring,107,0,1,184,1,Medium
+Mount Eden,BRONX,Summer,103,0,2,184,1,Medium
+Mount Eden,BRONX,Winter,59,0,3,184,1,Medium
+Murray Hill,MANHATTAN,Fall,39,2,0,185,1,Medium
+Murray Hill,MANHATTAN,Spring,62,2,1,185,1,Medium
+Murray Hill,MANHATTAN,Summer,80,2,2,185,0,Low
+Murray Hill,MANHATTAN,Winter,43,2,3,185,0,Low
+Murray Hill,QUEENS,Fall,6,3,0,185,0,Low
+Murray Hill,QUEENS,Spring,11,3,1,185,0,Low
+Murray Hill,QUEENS,Summer,13,3,2,185,0,Low
+Murray Hill,QUEENS,Winter,5,3,3,185,0,Low
+Neponsit,QUEENS,Spring,2,3,1,186,0,Low
+New Brighton,STATEN ISLAND,Fall,12,4,0,187,0,Low
+New Brighton,STATEN ISLAND,Spring,23,4,1,187,0,Low
+New Brighton,STATEN ISLAND,Summer,25,4,2,187,0,Low
+New Brighton,STATEN ISLAND,Winter,12,4,3,187,0,Low
+New Dorp,STATEN ISLAND,Fall,18,4,0,188,0,Low
+New Dorp,STATEN ISLAND,Spring,17,4,1,188,0,Low
+New Dorp,STATEN ISLAND,Summer,12,4,2,188,0,Low
+New Dorp,STATEN ISLAND,Winter,8,4,3,188,0,Low
+New Dorp Beach,STATEN ISLAND,Fall,2,4,0,189,0,Low
+New Dorp Beach,STATEN ISLAND,Spring,9,4,1,189,0,Low
+New Dorp Beach,STATEN ISLAND,Summer,18,4,2,189,0,Low
+New Dorp Beach,STATEN ISLAND,Winter,5,4,3,189,0,Low
+New Springville,STATEN ISLAND,Fall,15,4,0,190,0,Low
+New Springville,STATEN ISLAND,Spring,15,4,1,190,0,Low
+New Springville,STATEN ISLAND,Summer,36,4,2,190,0,Low
+New Springville,STATEN ISLAND,Winter,14,4,3,190,0,Low
+NoHo,MANHATTAN,Fall,15,2,0,191,1,Medium
+NoHo,MANHATTAN,Spring,14,2,1,191,0,Low
+NoHo,MANHATTAN,Summer,22,2,2,191,0,Low
+NoHo,MANHATTAN,Winter,12,2,3,191,0,Low
+NoMad,MANHATTAN,Fall,10,2,0,192,1,Medium
+NoMad,MANHATTAN,Spring,6,2,1,192,0,Low
+NoMad,MANHATTAN,Summer,8,2,2,192,0,Low
+NoMad,MANHATTAN,Winter,5,2,3,192,0,Low
+Nolita,MANHATTAN,Fall,43,2,0,193,1,Medium
+Nolita,MANHATTAN,Spring,35,2,1,193,0,Low
+Nolita,MANHATTAN,Summer,35,2,2,193,0,Low
+Nolita,MANHATTAN,Winter,17,2,3,193,0,Low
+North Corona,QUEENS,Fall,2,3,0,194,0,Low
+North Corona,QUEENS,Spring,1,3,1,194,0,Low
+North Corona,QUEENS,Summer,1,3,2,194,0,Low
+North Riverdale,BRONX,Fall,21,0,0,195,1,Medium
+North Riverdale,BRONX,Spring,59,0,1,195,1,Medium
+North Riverdale,BRONX,Summer,46,0,2,195,1,Medium
+North Riverdale,BRONX,Winter,23,0,3,195,1,Medium
+Norwood,BRONX,Fall,263,0,0,196,1,Medium
+Norwood,BRONX,Spring,346,0,1,196,1,Medium
+Norwood,BRONX,Summer,290,0,2,196,1,Medium
+Norwood,BRONX,Winter,218,0,3,196,1,Medium
+Oakland Gardens,QUEENS,Fall,8,3,0,197,0,Low
+Oakland Gardens,QUEENS,Spring,8,3,1,197,0,Low
+Oakland Gardens,QUEENS,Summer,9,3,2,197,0,Low
+Oakland Gardens,QUEENS,Winter,5,3,3,197,0,Low
+Oakwood,STATEN ISLAND,Fall,29,4,0,198,0,Low
+Oakwood,STATEN ISLAND,Spring,21,4,1,198,0,Low
+Oakwood,STATEN ISLAND,Summer,42,4,2,198,0,Low
+Oakwood,STATEN ISLAND,Winter,10,4,3,198,0,Low
+Ocean Hill,BROOKLYN,Fall,396,1,0,199,1,Medium
+Ocean Hill,BROOKLYN,Spring,505,1,1,199,1,Medium
+Ocean Hill,BROOKLYN,Summer,503,1,2,199,1,Medium
+Ocean Hill,BROOKLYN,Winter,329,1,3,199,1,Medium
+Ozone Park,QUEENS,Fall,72,3,0,200,0,Low
+Ozone Park,QUEENS,Spring,78,3,1,200,0,Low
+Ozone Park,QUEENS,Summer,68,3,2,200,0,Low
+Ozone Park,QUEENS,Winter,28,3,3,200,0,Low
+Park Hill,STATEN ISLAND,Fall,8,4,0,201,0,Low
+Park Hill,STATEN ISLAND,Spring,40,4,1,201,0,Low
+Park Hill,STATEN ISLAND,Summer,20,4,2,201,0,Low
+Park Hill,STATEN ISLAND,Winter,3,4,3,201,0,Low
+Park Slope,BROOKLYN,Fall,495,1,0,202,1,Medium
+Park Slope,BROOKLYN,Spring,762,1,1,202,2,High
+Park Slope,BROOKLYN,Summer,730,1,2,202,2,High
+Park Slope,BROOKLYN,Winter,427,1,3,202,1,Medium
+Parkchester,BRONX,Fall,32,0,0,203,1,Medium
+Parkchester,BRONX,Spring,24,0,1,203,1,Medium
+Parkchester,BRONX,Summer,53,0,2,203,1,Medium
+Parkchester,BRONX,Winter,29,0,3,203,1,Medium
+Pelham Bay,BRONX,Fall,69,0,0,204,1,Medium
+Pelham Bay,BRONX,Spring,53,0,1,204,1,Medium
+Pelham Bay,BRONX,Summer,56,0,2,204,1,Medium
+Pelham Bay,BRONX,Winter,41,0,3,204,1,Medium
+Pelham Gardens,BRONX,Fall,17,0,0,205,1,Medium
+Pelham Gardens,BRONX,Spring,24,0,1,205,1,Medium
+Pelham Gardens,BRONX,Summer,41,0,2,205,1,Medium
+Pelham Gardens,BRONX,Winter,2,0,3,205,1,Medium
+Pelham Parkway,BRONX,Fall,1,0,0,206,1,Medium
+Pelham Parkway,BRONX,Spring,1,0,1,206,1,Medium
+Pelham Parkway,BRONX,Summer,1,0,2,206,1,Medium
+Peter Cooper Village,MANHATTAN,Fall,6,2,0,207,1,Medium
+Peter Cooper Village,MANHATTAN,Spring,3,2,1,207,0,Low
+Peter Cooper Village,MANHATTAN,Summer,4,2,2,207,0,Low
+Peter Cooper Village,MANHATTAN,Winter,6,2,3,207,0,Low
+Pomonok,QUEENS,Fall,3,3,0,208,0,Low
+Pomonok,QUEENS,Summer,3,3,2,208,0,Low
+Pomonok,QUEENS,Winter,3,3,3,208,0,Low
+Port Morris,BRONX,Fall,4,0,0,209,1,Medium
+Port Morris,BRONX,Spring,3,0,1,209,1,Medium
+Port Morris,BRONX,Summer,5,0,2,209,1,Medium
+Port Morris,BRONX,Winter,2,0,3,209,1,Medium
+Port Richmond,STATEN ISLAND,Fall,50,4,0,210,0,Low
+Port Richmond,STATEN ISLAND,Spring,80,4,1,210,0,Low
+Port Richmond,STATEN ISLAND,Summer,87,4,2,210,0,Low
+Port Richmond,STATEN ISLAND,Winter,36,4,3,210,0,Low
+Prince's Bay,STATEN ISLAND,Fall,10,4,0,211,0,Low
+Prince's Bay,STATEN ISLAND,Spring,6,4,1,211,0,Low
+Prince's Bay,STATEN ISLAND,Summer,36,4,2,211,0,Low
+Prince's Bay,STATEN ISLAND,Winter,8,4,3,211,0,Low
+Prospect Heights,BROOKLYN,Fall,207,1,0,212,1,Medium
+Prospect Heights,BROOKLYN,Spring,312,1,1,212,1,Medium
+Prospect Heights,BROOKLYN,Summer,296,1,2,212,1,Medium
+Prospect Heights,BROOKLYN,Winter,212,1,3,212,1,Medium
+Prospect Lefferts Gardens,BROOKLYN,Fall,148,1,0,213,1,Medium
+Prospect Lefferts Gardens,BROOKLYN,Spring,216,1,1,213,1,Medium
+Prospect Lefferts Gardens,BROOKLYN,Summer,186,1,2,213,1,Medium
+Prospect Lefferts Gardens,BROOKLYN,Winter,93,1,3,213,1,Medium
+Queens Village,QUEENS,Fall,29,3,0,214,0,Low
+Queens Village,QUEENS,Spring,44,3,1,214,0,Low
+Queens Village,QUEENS,Summer,32,3,2,214,0,Low
+Queens Village,QUEENS,Winter,16,3,3,214,0,Low
+Queensboro Hill,QUEENS,Fall,1,3,0,215,0,Low
+Queensboro Hill,QUEENS,Spring,1,3,1,215,0,Low
+Queensboro Hill,QUEENS,Summer,4,3,2,215,0,Low
+Randall Manor,STATEN ISLAND,Fall,19,4,0,216,0,Low
+Randall Manor,STATEN ISLAND,Spring,32,4,1,216,0,Low
+Randall Manor,STATEN ISLAND,Summer,37,4,2,216,0,Low
+Randall Manor,STATEN ISLAND,Winter,11,4,3,216,0,Low
+Randalls Island,MANHATTAN,Fall,2,2,0,217,1,Medium
+Red Hook,BROOKLYN,Fall,99,1,0,218,1,Medium
+Red Hook,BROOKLYN,Spring,61,1,1,218,1,Medium
+Red Hook,BROOKLYN,Summer,125,1,2,218,1,Medium
+Red Hook,BROOKLYN,Winter,47,1,3,218,1,Medium
+Rego Park,QUEENS,Fall,77,3,0,219,0,Low
+Rego Park,QUEENS,Spring,149,3,1,219,0,Low
+Rego Park,QUEENS,Summer,171,3,2,219,0,Low
+Rego Park,QUEENS,Winter,73,3,3,219,0,Low
+Richmond,STATEN ISLAND,Fall,15,4,0,220,0,Low
+Richmond,STATEN ISLAND,Spring,20,4,1,220,0,Low
+Richmond,STATEN ISLAND,Summer,24,4,2,220,0,Low
+Richmond,STATEN ISLAND,Winter,6,4,3,220,0,Low
+Richmond Hill,QUEENS,Fall,30,3,0,221,0,Low
+Richmond Hill,QUEENS,Spring,22,3,1,221,0,Low
+Richmond Hill,QUEENS,Summer,42,3,2,221,0,Low
+Richmond Hill,QUEENS,Winter,26,3,3,221,0,Low
+Ridgewood,BROOKLYN,Fall,5,1,0,222,1,Medium
+Ridgewood,BROOKLYN,Spring,4,1,1,222,1,Medium
+Ridgewood,BROOKLYN,Summer,4,1,2,222,1,Medium
+Ridgewood,BROOKLYN,Winter,4,1,3,222,1,Medium
+Ridgewood,QUEENS,Fall,262,3,0,222,0,Low
+Ridgewood,QUEENS,Spring,307,3,1,222,0,Low
+Ridgewood,QUEENS,Summer,320,3,2,222,0,Low
+Ridgewood,QUEENS,Winter,250,3,3,222,0,Low
+Riverdale,BRONX,Fall,27,0,0,223,1,Medium
+Riverdale,BRONX,Spring,21,0,1,223,1,Medium
+Riverdale,BRONX,Summer,40,0,2,223,1,Medium
+Riverdale,BRONX,Winter,26,0,3,223,1,Medium
+Rochdale Village,QUEENS,Fall,4,3,0,224,0,Low
+Rochdale Village,QUEENS,Spring,10,3,1,224,0,Low
+Rochdale Village,QUEENS,Summer,9,3,2,224,0,Low
+Rochdale Village,QUEENS,Winter,2,3,3,224,0,Low
+Rockaway Beach,QUEENS,Fall,2,3,0,225,0,Low
+Rockaway Beach,QUEENS,Spring,5,3,1,225,0,Low
+Rockaway Beach,QUEENS,Summer,7,3,2,225,0,Low
+Rockaway Park,QUEENS,Fall,21,3,0,226,0,Low
+Rockaway Park,QUEENS,Spring,16,3,1,226,0,Low
+Rockaway Park,QUEENS,Summer,39,3,2,226,0,Low
+Rockaway Park,QUEENS,Winter,14,3,3,226,0,Low
+Roosevelt Island,MANHATTAN,Fall,4,2,0,227,1,Medium
+Roosevelt Island,MANHATTAN,Spring,2,2,1,227,0,Low
+Roosevelt Island,MANHATTAN,Summer,1,2,2,227,0,Low
+Roosevelt Island,MANHATTAN,Winter,2,2,3,227,0,Low
+Rose Hill,MANHATTAN,Fall,11,2,0,228,1,Medium
+Rose Hill,MANHATTAN,Spring,21,2,1,228,0,Low
+Rose Hill,MANHATTAN,Summer,15,2,2,228,0,Low
+Rose Hill,MANHATTAN,Winter,15,2,3,228,0,Low
+Rosebank,STATEN ISLAND,Fall,33,4,0,229,0,Low
+Rosebank,STATEN ISLAND,Spring,29,4,1,229,0,Low
+Rosebank,STATEN ISLAND,Summer,44,4,2,229,0,Low
+Rosebank,STATEN ISLAND,Winter,11,4,3,229,0,Low
+Rosedale,QUEENS,Fall,1,3,0,230,0,Low
+Rosedale,QUEENS,Spring,1,3,1,230,0,Low
+Rosedale,QUEENS,Summer,6,3,2,230,0,Low
+Rosedale,QUEENS,Winter,3,3,3,230,0,Low
+Rossville,STATEN ISLAND,Fall,11,4,0,231,0,Low
+Rossville,STATEN ISLAND,Spring,27,4,1,231,0,Low
+Rossville,STATEN ISLAND,Summer,24,4,2,231,0,Low
+Rossville,STATEN ISLAND,Winter,10,4,3,231,0,Low
+Seagate,BROOKLYN,Fall,8,1,0,232,1,Medium
+Seagate,BROOKLYN,Spring,5,1,1,232,1,Medium
+Seagate,BROOKLYN,Summer,6,1,2,232,1,Medium
+Seagate,BROOKLYN,Winter,2,1,3,232,1,Medium
+Seaport,MANHATTAN,Fall,12,2,0,233,1,Medium
+Seaport,MANHATTAN,Spring,9,2,1,233,0,Low
+Seaport,MANHATTAN,Summer,6,2,2,233,0,Low
+Seaport,MANHATTAN,Winter,8,2,3,233,0,Low
+Seaside,QUEENS,Summer,3,3,2,234,0,Low
+Sheepshead Bay,BROOKLYN,Fall,136,1,0,235,1,Medium
+Sheepshead Bay,BROOKLYN,Spring,164,1,1,235,1,Medium
+Sheepshead Bay,BROOKLYN,Summer,149,1,2,235,1,Medium
+Sheepshead Bay,BROOKLYN,Winter,84,1,3,235,1,Medium
+Shore Acres,STATEN ISLAND,Spring,2,4,1,236,0,Low
+Shore Acres,STATEN ISLAND,Summer,1,4,2,236,0,Low
+Shore Acres,STATEN ISLAND,Winter,1,4,3,236,0,Low
+Silver Lake,STATEN ISLAND,Fall,1,4,0,237,0,Low
+Silver Lake,STATEN ISLAND,Spring,11,4,1,237,0,Low
+Silver Lake,STATEN ISLAND,Summer,1,4,2,237,0,Low
+Silver Lake,STATEN ISLAND,Winter,3,4,3,237,0,Low
+SoHo,MANHATTAN,Fall,43,2,0,238,1,Medium
+SoHo,MANHATTAN,Spring,67,2,1,238,0,Low
+SoHo,MANHATTAN,Summer,70,2,2,238,0,Low
+SoHo,MANHATTAN,Winter,49,2,3,238,0,Low
+South Beach,STATEN ISLAND,Fall,2,4,0,239,0,Low
+South Beach,STATEN ISLAND,Spring,7,4,1,239,0,Low
+South Beach,STATEN ISLAND,Summer,6,4,2,239,0,Low
+South Beach,STATEN ISLAND,Winter,1,4,3,239,0,Low
+South Jamaica,QUEENS,Fall,10,3,0,240,0,Low
+South Jamaica,QUEENS,Spring,38,3,1,240,0,Low
+South Jamaica,QUEENS,Summer,6,3,2,240,0,Low
+South Jamaica,QUEENS,Winter,13,3,3,240,0,Low
+South Ozone Park,QUEENS,Fall,31,3,0,241,0,Low
+South Ozone Park,QUEENS,Spring,38,3,1,241,0,Low
+South Ozone Park,QUEENS,Summer,68,3,2,241,0,Low
+South Ozone Park,QUEENS,Winter,16,3,3,241,0,Low
+South Richmond Hill,QUEENS,Fall,84,3,0,242,0,Low
+South Richmond Hill,QUEENS,Spring,94,3,1,242,0,Low
+South Richmond Hill,QUEENS,Summer,92,3,2,242,0,Low
+South Richmond Hill,QUEENS,Winter,53,3,3,242,0,Low
+South Side,BRONX,Summer,1,0,2,243,1,Medium
+South Slope,BROOKLYN,Fall,6,1,0,244,1,Medium
+South Slope,BROOKLYN,Spring,9,1,1,244,1,Medium
+South Slope,BROOKLYN,Summer,14,1,2,244,1,Medium
+South Slope,BROOKLYN,Winter,7,1,3,244,1,Medium
+South Village,MANHATTAN,Fall,63,2,0,245,1,Medium
+South Village,MANHATTAN,Spring,93,2,1,245,0,Low
+South Village,MANHATTAN,Summer,87,2,2,245,0,Low
+South Village,MANHATTAN,Winter,72,2,3,245,0,Low
+Southeast Annadale,STATEN ISLAND,Fall,3,4,0,246,0,Low
+Southeast Annadale,STATEN ISLAND,Spring,2,4,1,246,0,Low
+Southeast Annadale,STATEN ISLAND,Summer,3,4,2,246,0,Low
+Southeast Annadale,STATEN ISLAND,Winter,3,4,3,246,0,Low
+Southeast Yonkers,BRONX,Spring,1,0,1,247,1,Medium
+Southeast Yonkers,BRONX,Summer,1,0,2,247,1,Medium
+Southeast Yonkers,BRONX,Winter,3,0,3,247,1,Medium
+Southside,BROOKLYN,Fall,241,1,0,248,1,Medium
+Southside,BROOKLYN,Spring,246,1,1,248,1,Medium
+Southside,BROOKLYN,Summer,313,1,2,248,1,Medium
+Southside,BROOKLYN,Winter,149,1,3,248,1,Medium
+Spring Creek,BROOKLYN,Fall,4,1,0,249,1,Medium
+Spring Creek,BROOKLYN,Spring,4,1,1,249,1,Medium
+Spring Creek,BROOKLYN,Summer,19,1,2,249,1,Medium
+Spring Creek,BROOKLYN,Winter,4,1,3,249,1,Medium
+Springfield Gardens,QUEENS,Fall,4,3,0,250,0,Low
+Springfield Gardens,QUEENS,Spring,8,3,1,250,0,Low
+Springfield Gardens,QUEENS,Summer,2,3,2,250,0,Low
+Springfield Gardens,QUEENS,Winter,4,3,3,250,0,Low
+Spuyten Duyvil,BRONX,Fall,17,0,0,251,1,Medium
+Spuyten Duyvil,BRONX,Spring,33,0,1,251,1,Medium
+Spuyten Duyvil,BRONX,Summer,47,0,2,251,1,Medium
+Spuyten Duyvil,BRONX,Winter,9,0,3,251,1,Medium
+St. Albans,QUEENS,Fall,17,3,0,252,0,Low
+St. Albans,QUEENS,Spring,51,3,1,252,0,Low
+St. Albans,QUEENS,Summer,43,3,2,252,0,Low
+St. Albans,QUEENS,Winter,18,3,3,252,0,Low
+Stapleton Heights,STATEN ISLAND,Fall,16,4,0,253,0,Low
+Stapleton Heights,STATEN ISLAND,Spring,24,4,1,253,0,Low
+Stapleton Heights,STATEN ISLAND,Summer,26,4,2,253,0,Low
+Stapleton Heights,STATEN ISLAND,Winter,19,4,3,253,0,Low
+Starrett City,BROOKLYN,Fall,19,1,0,254,1,Medium
+Starrett City,BROOKLYN,Spring,17,1,1,254,1,Medium
+Starrett City,BROOKLYN,Summer,14,1,2,254,1,Medium
+Starrett City,BROOKLYN,Winter,8,1,3,254,1,Medium
+Staten Island,STATEN ISLAND,Fall,11,4,0,255,0,Low
+Staten Island,STATEN ISLAND,Spring,10,4,1,255,0,Low
+Staten Island,STATEN ISLAND,Summer,8,4,2,255,0,Low
+Staten Island,STATEN ISLAND,Winter,9,4,3,255,0,Low
+Strivers' Row,MANHATTAN,Fall,8,2,0,256,1,Medium
+Strivers' Row,MANHATTAN,Spring,14,2,1,256,0,Low
+Strivers' Row,MANHATTAN,Summer,5,2,2,256,0,Low
+Strivers' Row,MANHATTAN,Winter,5,2,3,256,0,Low
+Stuyvesant Heights,BROOKLYN,Fall,62,1,0,257,1,Medium
+Stuyvesant Heights,BROOKLYN,Spring,129,1,1,257,1,Medium
+Stuyvesant Heights,BROOKLYN,Summer,164,1,2,257,1,Medium
+Stuyvesant Heights,BROOKLYN,Winter,84,1,3,257,1,Medium
+Stuyvesant Town-Peter Cooper Village,MANHATTAN,Fall,20,2,0,258,1,Medium
+Stuyvesant Town-Peter Cooper Village,MANHATTAN,Spring,9,2,1,258,0,Low
+Stuyvesant Town-Peter Cooper Village,MANHATTAN,Summer,12,2,2,258,0,Low
+Stuyvesant Town-Peter Cooper Village,MANHATTAN,Winter,11,2,3,258,0,Low
+Sugar Hill,MANHATTAN,Fall,134,2,0,259,1,Medium
+Sugar Hill,MANHATTAN,Spring,130,2,1,259,0,Low
+Sugar Hill,MANHATTAN,Summer,169,2,2,259,0,Low
+Sugar Hill,MANHATTAN,Winter,100,2,3,259,0,Low
+Sunnyside,QUEENS,Fall,74,3,0,260,0,Low
+Sunnyside,QUEENS,Spring,90,3,1,260,0,Low
+Sunnyside,QUEENS,Summer,105,3,2,260,0,Low
+Sunnyside,QUEENS,Winter,70,3,3,260,0,Low
+Sunnyside,STATEN ISLAND,Fall,4,4,0,260,0,Low
+Sunnyside,STATEN ISLAND,Spring,7,4,1,260,0,Low
+Sunnyside,STATEN ISLAND,Summer,19,4,2,260,0,Low
+Sunnyside,STATEN ISLAND,Winter,2,4,3,260,0,Low
+Sunset Park,BROOKLYN,Fall,473,1,0,261,1,Medium
+Sunset Park,BROOKLYN,Spring,775,1,1,261,2,High
+Sunset Park,BROOKLYN,Summer,737,1,2,261,2,High
+Sunset Park,BROOKLYN,Winter,384,1,3,261,1,Medium
+Sutton Place,MANHATTAN,Fall,7,2,0,262,1,Medium
+Sutton Place,MANHATTAN,Spring,4,2,1,262,0,Low
+Sutton Place,MANHATTAN,Summer,13,2,2,262,0,Low
+Sutton Place,MANHATTAN,Winter,4,2,3,262,0,Low
+The Bronx,BRONX,Fall,7,0,0,263,1,Medium
+The Bronx,BRONX,Spring,3,0,1,263,1,Medium
+The Bronx,BRONX,Summer,8,0,2,263,1,Medium
+The Bronx,BRONX,Winter,3,0,3,263,1,Medium
+The Bronx,MANHATTAN,Fall,1,2,0,263,1,Medium
+The Bronx,QUEENS,Summer,1,3,2,263,0,Low
+Theater District,MANHATTAN,Fall,23,2,0,264,1,Medium
+Theater District,MANHATTAN,Spring,25,2,1,264,0,Low
+Theater District,MANHATTAN,Summer,13,2,2,264,0,Low
+Theater District,MANHATTAN,Winter,15,2,3,264,0,Low
+Todt Hill,STATEN ISLAND,Fall,1,4,0,265,0,Low
+Todt Hill,STATEN ISLAND,Spring,6,4,1,265,0,Low
+Todt Hill,STATEN ISLAND,Summer,16,4,2,265,0,Low
+Todt Hill,STATEN ISLAND,Winter,5,4,3,265,0,Low
+Tottenville,STATEN ISLAND,Fall,13,4,0,266,0,Low
+Tottenville,STATEN ISLAND,Spring,10,4,1,266,0,Low
+Tottenville,STATEN ISLAND,Summer,20,4,2,266,0,Low
+Tottenville,STATEN ISLAND,Winter,6,4,3,266,0,Low
+Travis - Chelsea,STATEN ISLAND,Fall,4,4,0,267,0,Low
+Travis - Chelsea,STATEN ISLAND,Spring,10,4,1,267,0,Low
+Travis - Chelsea,STATEN ISLAND,Summer,15,4,2,267,0,Low
+Travis - Chelsea,STATEN ISLAND,Winter,7,4,3,267,0,Low
+Tribeca,MANHATTAN,Fall,96,2,0,268,1,Medium
+Tribeca,MANHATTAN,Spring,87,2,1,268,0,Low
+Tribeca,MANHATTAN,Summer,126,2,2,268,0,Low
+Tribeca,MANHATTAN,Winter,32,2,3,268,0,Low
+Tudor City,MANHATTAN,Fall,7,2,0,269,1,Medium
+Tudor City,MANHATTAN,Spring,5,2,1,269,0,Low
+Tudor City,MANHATTAN,Summer,9,2,2,269,0,Low
+Tudor City,MANHATTAN,Winter,4,2,3,269,0,Low
+Two Bridges,MANHATTAN,Fall,58,2,0,270,1,Medium
+Two Bridges,MANHATTAN,Spring,56,2,1,270,0,Low
+Two Bridges,MANHATTAN,Summer,77,2,2,270,0,Low
+Two Bridges,MANHATTAN,Winter,57,2,3,270,0,Low
+Ukrainian Village,MANHATTAN,Fall,241,2,0,271,1,Medium
+Ukrainian Village,MANHATTAN,Spring,313,2,1,271,1,Medium
+Ukrainian Village,MANHATTAN,Summer,245,2,2,271,0,Low
+Ukrainian Village,MANHATTAN,Winter,205,2,3,271,0,Low
+Union Square,MANHATTAN,Fall,9,2,0,272,1,Medium
+Union Square,MANHATTAN,Spring,23,2,1,272,0,Low
+Union Square,MANHATTAN,Summer,13,2,2,272,0,Low
+Union Square,MANHATTAN,Winter,14,2,3,272,0,Low
+University Heights,BRONX,Fall,110,0,0,273,1,Medium
+University Heights,BRONX,Spring,137,0,1,273,1,Medium
+University Heights,BRONX,Summer,148,0,2,273,1,Medium
+University Heights,BRONX,Winter,97,0,3,273,1,Medium
+Upper East Side,MANHATTAN,Fall,155,2,0,274,1,Medium
+Upper East Side,MANHATTAN,Spring,151,2,1,274,0,Low
+Upper East Side,MANHATTAN,Summer,201,2,2,274,0,Low
+Upper East Side,MANHATTAN,Winter,100,2,3,274,0,Low
+Upper Manhattan,MANHATTAN,Fall,2,2,0,275,1,Medium
+Upper Manhattan,MANHATTAN,Spring,5,2,1,275,0,Low
+Upper Manhattan,MANHATTAN,Summer,9,2,2,275,0,Low
+Upper Manhattan,MANHATTAN,Winter,1,2,3,275,0,Low
+Upper West Side,MANHATTAN,Fall,185,2,0,276,1,Medium
+Upper West Side,MANHATTAN,Spring,229,2,1,276,1,Medium
+Upper West Side,MANHATTAN,Summer,240,2,2,276,0,Low
+Upper West Side,MANHATTAN,Winter,170,2,3,276,0,Low
+Van Nest,BRONX,Fall,99,0,0,277,1,Medium
+Van Nest,BRONX,Spring,135,0,1,277,1,Medium
+Van Nest,BRONX,Summer,111,0,2,277,1,Medium
+Van Nest,BRONX,Winter,75,0,3,277,1,Medium
+Village greens,STATEN ISLAND,Fall,4,4,0,278,0,Low
+Village greens,STATEN ISLAND,Spring,9,4,1,278,0,Low
+Village greens,STATEN ISLAND,Summer,11,4,2,278,0,Low
+Vinegar Hill,BROOKLYN,Fall,3,1,0,279,1,Medium
+Vinegar Hill,BROOKLYN,Spring,5,1,1,279,1,Medium
+Vinegar Hill,BROOKLYN,Summer,3,1,2,279,1,Medium
+Vinegar Hill,MANHATTAN,Summer,1,2,2,279,0,Low
+Washington Heights,MANHATTAN,Fall,294,2,0,280,1,Medium
+Washington Heights,MANHATTAN,Spring,389,2,1,280,1,Medium
+Washington Heights,MANHATTAN,Summer,310,2,2,280,0,Low
+Washington Heights,MANHATTAN,Winter,322,2,3,280,0,Low
+West Brighton,STATEN ISLAND,Fall,48,4,0,281,0,Low
+West Brighton,STATEN ISLAND,Spring,50,4,1,281,0,Low
+West Brighton,STATEN ISLAND,Summer,98,4,2,281,0,Low
+West Brighton,STATEN ISLAND,Winter,29,4,3,281,0,Low
+West Bronx,BRONX,Fall,773,0,0,282,2,High
+West Bronx,BRONX,Spring,840,0,1,282,2,High
+West Bronx,BRONX,Summer,941,0,2,282,2,High
+West Bronx,BRONX,Winter,654,0,3,282,2,High
+West Farms,BRONX,Fall,63,0,0,283,1,Medium
+West Farms,BRONX,Spring,65,0,1,283,1,Medium
+West Farms,BRONX,Summer,60,0,2,283,1,Medium
+West Farms,BRONX,Winter,54,0,3,283,1,Medium
+West Harlem,MANHATTAN,Fall,228,2,0,284,1,Medium
+West Harlem,MANHATTAN,Spring,212,2,1,284,0,Low
+West Harlem,MANHATTAN,Summer,261,2,2,284,0,Low
+West Harlem,MANHATTAN,Winter,153,2,3,284,0,Low
+West Village,MANHATTAN,Fall,223,2,0,285,1,Medium
+West Village,MANHATTAN,Spring,222,2,1,285,0,Low
+West Village,MANHATTAN,Summer,202,2,2,285,0,Low
+West Village,MANHATTAN,Winter,161,2,3,285,0,Low
+Westchester Square,BRONX,Fall,21,0,0,286,1,Medium
+Westchester Square,BRONX,Spring,24,0,1,286,1,Medium
+Westchester Square,BRONX,Summer,16,0,2,286,1,Medium
+Westchester Square,BRONX,Winter,11,0,3,286,1,Medium
+Whitestone,QUEENS,Fall,21,3,0,287,0,Low
+Whitestone,QUEENS,Spring,33,3,1,287,0,Low
+Whitestone,QUEENS,Summer,48,3,2,287,0,Low
+Whitestone,QUEENS,Winter,14,3,3,287,0,Low
+Willets Point,QUEENS,Spring,1,3,1,288,0,Low
+Willets Point,QUEENS,Summer,1,3,2,288,0,Low
+Williamsbridge,BRONX,Fall,138,0,0,289,1,Medium
+Williamsbridge,BRONX,Spring,129,0,1,289,1,Medium
+Williamsbridge,BRONX,Summer,152,0,2,289,1,Medium
+Williamsbridge,BRONX,Winter,116,0,3,289,1,Medium
+Williamsburg,BROOKLYN,Fall,520,1,0,290,1,Medium
+Williamsburg,BROOKLYN,Spring,702,1,1,290,2,High
+Williamsburg,BROOKLYN,Summer,753,1,2,290,2,High
+Williamsburg,BROOKLYN,Winter,412,1,3,290,1,Medium
+Windsor Terrace,BROOKLYN,Fall,67,1,0,291,1,Medium
+Windsor Terrace,BROOKLYN,Spring,81,1,1,291,1,Medium
+Windsor Terrace,BROOKLYN,Summer,92,1,2,291,1,Medium
+Windsor Terrace,BROOKLYN,Winter,66,1,3,291,1,Medium
+Woodhaven,BROOKLYN,Fall,1,1,0,292,1,Medium
+Woodhaven,BROOKLYN,Spring,3,1,1,292,1,Medium
+Woodhaven,BROOKLYN,Summer,3,1,2,292,1,Medium
+Woodhaven,BROOKLYN,Winter,2,1,3,292,1,Medium
+Woodhaven,QUEENS,Fall,9,3,0,292,0,Low
+Woodhaven,QUEENS,Spring,15,3,1,292,0,Low
+Woodhaven,QUEENS,Summer,30,3,2,292,0,Low
+Woodhaven,QUEENS,Winter,14,3,3,292,0,Low
+Woodrow,STATEN ISLAND,Fall,23,4,0,293,0,Low
+Woodrow,STATEN ISLAND,Spring,53,4,1,293,0,Low
+Woodrow,STATEN ISLAND,Summer,64,4,2,293,0,Low
+Woodrow,STATEN ISLAND,Winter,5,4,3,293,0,Low
+Woodside,QUEENS,Fall,173,3,0,294,0,Low
+Woodside,QUEENS,Spring,182,3,1,294,0,Low
+Woodside,QUEENS,Summer,189,3,2,294,0,Low
+Woodside,QUEENS,Winter,122,3,3,294,0,Low
+Woodstock,BRONX,Fall,212,0,0,295,1,Medium
+Woodstock,BRONX,Spring,250,0,1,295,1,Medium
+Woodstock,BRONX,Summer,233,0,2,295,1,Medium
+Woodstock,BRONX,Winter,185,0,3,295,1,Medium
+World Trade Center,MANHATTAN,Fall,2,2,0,296,1,Medium
+World Trade Center,MANHATTAN,Spring,1,2,1,296,0,Low
+World Trade Center,MANHATTAN,Summer,3,2,2,296,0,Low
+World Trade Center,MANHATTAN,Winter,1,2,3,296,0,Low
+Yorkville,MANHATTAN,Fall,593,2,0,297,1,Medium
+Yorkville,MANHATTAN,Spring,691,2,1,297,2,High
+Yorkville,MANHATTAN,Summer,674,2,2,297,2,High
+Yorkville,MANHATTAN,Winter,458,2,3,297,0,Low
