@@ -17,7 +17,7 @@ health resources should be implemented.
 
 ## Data
 
-**Source:** [311 Service Requests from 2020 to Present]([https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2020-to-Present/erm2-nwe9/about_data]) — NYC Open Data
+**Source:** [311 Service Requests from 2020 to Present](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2020-to-Present/erm2-nwe9/about_data) — NYC Open Data
 
 The dataset is updated daily. This analysis uses a snapshot retrieved on
 **June 2, 2025**, filtered to rodent-related complaints.
